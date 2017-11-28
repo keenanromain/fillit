@@ -1,5 +1,5 @@
 # fillit
-Tetromino organizer using the Dancing Links algorithm
+A messy, but working Tetromino organizer using Dancing Links
 
 ## Acknowledgement
 
